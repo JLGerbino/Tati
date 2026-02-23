@@ -97,3 +97,9 @@ footer {
   }
 }
 
+/* Pantallas grandes */
+@media (min-width: 1200px) {
+  .carousel-item img {
+    height: 650px;
+  }
+}
